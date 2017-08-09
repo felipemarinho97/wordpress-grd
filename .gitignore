@@ -25,7 +25,6 @@ wp-content/wp-cache-config.php
 wp-content/db.php
 
 wp-admin/
-wp-includes/
 /index.php
 /license.txt
 /readme.html
