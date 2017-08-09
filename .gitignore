@@ -6,10 +6,6 @@
 *.sql.gz
 ~*
 
-.htaccess
-.maintenance
-
-wp-config.php
 sitemap.xml
 sitemap.xml.gz
 wp-content/uploads/
@@ -24,8 +20,8 @@ wp-content/object-cache.php
 wp-content/wp-cache-config.php
 wp-content/db.php
 
+wp-include/
 wp-admin/
-/index.php
 /license.txt
 /readme.html
 
